@@ -1,0 +1,62 @@
+[
+  {
+    "current_probability": 39.9,
+    "projected_probability": 42.6,
+    "probability_change": 2.8,
+    "interventions_applied": [
+      "Attend 2 event(s)",
+      "3 additional portal logins",
+      "Enable auto-renew"
+    ],
+    "recommendation": "Minimal impact - Not recommended",
+    "member_id": "M000015"
+  },
+  {
+    "current_probability": 38.7,
+    "projected_probability": 41.4,
+    "probability_change": 2.8,
+    "interventions_applied": [
+      "Attend 2 event(s)",
+      "3 additional portal logins",
+      "Enable auto-renew"
+    ],
+    "recommendation": "Minimal impact - Not recommended",
+    "member_id": "M000023"
+  },
+  {
+    "current_probability": 37.2,
+    "projected_probability": 39.9,
+    "probability_change": 2.8,
+    "interventions_applied": [
+      "Attend 2 event(s)",
+      "3 additional portal logins",
+      "Enable auto-renew"
+    ],
+    "recommendation": "Minimal impact - Not recommended",
+    "member_id": "M000024"
+  },
+  {
+    "current_probability": 35.7,
+    "projected_probability": 38.5,
+    "probability_change": 2.8,
+    "interventions_applied": [
+      "Attend 2 event(s)",
+      "3 additional portal logins",
+      "Enable auto-renew"
+    ],
+    "recommendation": "Minimal impact - Not recommended",
+    "member_id": "M000036"
+  },
+  {
+    "current_probability": 36.9,
+    "projected_probability": 39.7,
+    "probability_change": 2.8,
+    "interventions_applied": [
+      "Attend 2 event(s)",
+      "3 additional portal logins",
+      "Enable auto-renew"
+    ],
+    "recommendation": "Minimal impact - Not recommended",
+    "member_id": "M000037"
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "High Risk": {
+    "count": 518,
+    "percentage": 13.0,
+    "avg_renewal_probability": 36.5,
+    "min_probability": 24.7,
+    "max_probability": 40.0
+  },
+  "Medium Risk": {
+    "count": 3480,
+    "percentage": 87.0,
+    "avg_renewal_probability": 50.9,
+    "min_probability": 40.0,
+    "max_probability": 69.9
+  },
+  "Low Risk": {
+    "count": 2,
+    "percentage": 0.0,
+    "avg_renewal_probability": 71.5,
+    "min_probability": 71.2,
+    "max_probability": 71.8
+  },
+  "overall": {
+    "total_members": 4000,
+    "avg_probability": 49.1,
+    "expected_renewals": 1753
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "overview": {
+    "total_members": 4000,
+    "expected_renewals": 1757,
+    "expected_renewal_rate": 43.9,
+    "avg_renewal_probability": 49.1
+  },
+  "risk_distribution": {
+    "high_risk": {
+      "count": 518,
+      "percentage": 13.0
+    },
+    "medium_risk": {
+      "count": 3480,
+      "percentage": 87.0
+    },
+    "low_risk": {
+      "count": 2,
+      "percentage": 0.0
+    }
+  },
+  "financial_impact": {
+    "revenue_at_risk": 139196.27,
+    "high_risk_members": 518
+  }
+}
